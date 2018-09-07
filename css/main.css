@@ -1,5 +1,6 @@
 ---
 layout: null
+published: true
 ---
 
 @import url("pygment_highlights.css");
@@ -7,7 +8,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Menlo', 'monospace', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
