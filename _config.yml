@@ -70,8 +70,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "lethinh@gmail.com"
-  facebook: "https://www.facebook.com/profile.php?id=100010037610922"
+  email: lethinh@gmail.com
+  facebook: https://www.facebook.com/profile.php?id=100010037610922
   github: thinhlvv
   twitter: lvvthinh
 #  reddit: yourname
