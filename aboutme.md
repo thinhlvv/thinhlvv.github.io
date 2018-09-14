@@ -16,6 +16,9 @@ What else do you need?
 ### My history
 
 From Vietnam but working in Singapore.
+
 Made failures every steps in my life.
+
 Passion with technology.
+
 Want to be famous with a tech startup (>v<) .
