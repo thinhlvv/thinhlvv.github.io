@@ -1,19 +1,20 @@
 ---
 layout: post
 published: true
-title: How to transfer ERC20 token with metamask and javascript.
+title: How to transfer ERC20 token with Metamask and Javascript.
 ---
 
 ### Problem
 I got trouble in defining a contractInstance with web3. It didn’t list functions of contract out. Spent one day to take around the tutorials and got the same solution is must define contract.
 
 ### How to solve it?
-Luckily for my boss when I saw the (warning of Metamask)[https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8] and see the updates, my life was saved at that moment.
+Luckily for my boss when I saw the [warning of Metamask](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8) and see the updates, my life was saved at that moment.
 
 This is simple code that works with me after one day thrown away in the same articles.
 
 - Change your metamask to ropsten network.
 - Write this to fresh index.html
+
 ```
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
     <script type="text/javascript">
@@ -58,7 +59,9 @@ This is simple code that works with me after one day thrown away in the same art
 <div id="metamask">
 	<button onclick="openMetamask()" type="button" class="btn btn-primary"> Open Metamask </button>
 </div>
+
 ```
+
 - Create a simple server and serve index.html, you can see how it works.
 
 Yay, road to blockchain developer never be easy like this. 
