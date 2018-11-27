@@ -9,15 +9,18 @@ Take a look in explanation how [Cronjob](https://github.com/robfig/cron) work in
 Whenever you create a new job `c.AddFunc("0 30 * * * *", func() { fmt.Println("Every hour on the half hour") })`, cronjob will be added into a channel and scheduled to run with goroutine.
 
 ### Problem :
-	How about the job will take longer as we estimated ? 
-	What bothering us is cronjob will create another goroutine beside the old one. This situation leads to complicated bugs cause duplication tasks.
+
+How about the job will take longer as we estimated ? 
+What bothering us is cronjob will create another goroutine beside the old one. This situation leads to complicated bugs cause duplication tasks.
 
 ### Solution :
-	No revolution here, all you need is checking the status of jobs that you opened. 
-	Here we go, make it works.
-	Create a bool channel and update status of job to that.
-	Here’s what I tried with the sample code 
 
+No revolution here, all you need is checking the status of jobs that you opened. 
+Here we go, make it works.
+Create a bool channel and update status of job to that.
+Here’s what I tried with the sample code 
+
+```
 
 doneSyncing := make(chan bool) 
 c.AddFunc(“@hourly”, func(){
@@ -35,14 +38,20 @@ func SyncTransactions(){
 	}
 }
 
-	Renew your coffee and be ready to dive deep into code.
-	As I said, create a new bool channel and put it into our cronjob. If you’re into the SyncTransaction function you can see I use select case for checking status of job. 	Once the job has done, update channel is true.
-	Let’s create a simple codes and run.
-	The heck…Why application doesn’t invoke the cronjob? Make debug for doneSyncing variable and problem is found. You need to trigger doneSyncing with true for for first starting app.
+```
 
-	Add this under c.AddFunc 
+Renew your coffee and be ready to dive deep into code.
+As I said, create a new bool channel and put it into our cronjob. If you’re into the SyncTransaction function you can see I use select case for checking status of job. 	Once the job has done, update channel is true.
+Let’s create a simple codes and run.
+The heck… Why application doesn’t invoke the cronjob? Make debug for doneSyncing variable and problem is found. You need to trigger doneSyncing with true for for first starting app.
+
+Add this under c.AddFunc 
+
+```
+
 go func() {
 	doneSyncing <- true
 }()
 
+```
 Yay! It works now. Problem solved and you can exhale and drink your coffee now. 	Leave your idea/solution/bug in comment to improve this problem.
