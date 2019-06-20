@@ -1,12 +1,12 @@
 ---
 layout: post
 published: true
-title: Design Architecture: Part 1. Understanding Scalability
+title: Design Architecture: Part 1. Understanding Scalability.
 ---
 
 This article will walk throw these below concerns:
 
-	### When do you need to make decision to scale your system?
+### When do you need to make decision to scale your system?
 
 When you was handed over a source code but too complicated and confused to maintain.
 
