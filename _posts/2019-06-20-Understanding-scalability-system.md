@@ -14,6 +14,8 @@ When you check your server heal and see a lot of peaks and CPU up and down frequ
 
 When you see your 4xx/5xx requests is more than your daily meal.
 
+![why](https://seanwes.com/wp-content/uploads/2016/02/242-sp-find-your-why.png)
+
 Or you just want to provide bunch of features to your customers and make your system available.
 
 If you find yourself in those, make a proposal to your boss or your team to make the scalability happens.
@@ -30,6 +32,8 @@ Investigate the APIs those are most frequently and append them to your considera
 ### General view with architecture and trade-offs
 
 Once we finish those, let’s see how we can approach the very basic primer to find out your most affordable to you.
+
+![tradeoffs](https://cdn-images-1.medium.com/max/1600/1*D1euW219UdxafVeOjqvzNA.png)
 
 - Vertical scaling
 
