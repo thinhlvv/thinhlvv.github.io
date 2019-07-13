@@ -16,4 +16,4 @@ Bài viết hơi bốc mùi, ngửi và đọc để cảm nhận là chính, c�
 
 ![toilet feedback](/img/66759159_472541136653581_3873833503380471808_n.jpg)
 
-PS: Bức hình là việc người ta lấy feedback của nhà vệ sinh công cộng ở Singpore. Th*i hay không th*I nói một lời thôi.
+PS: Bức hình là việc người ta lấy feedback của nhà vệ sinh công cộng ở Singpore. Thúi hay không thúi nói một lời thôi.
