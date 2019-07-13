@@ -4,7 +4,7 @@ published: true
 title: Chuyện feedback.
 ---
 
-Ngày xửa ngày xưa khoảng 1 tuần trước là vừa tròn 12 tháng sang tư bản làm việc, có mấy cái cũng cần ngồi ngẫm nghĩ để rặn cho ra vài thứ, mà feedback là 1 trong đống đó.
+Ngày xửa ngày xưa khoảng 1 tuần trước là vừa tròn 12 tháng sang tư bản làm việc, có mấy cái cũng cần ngồi ngẫm nghĩ để "rặn" cho ra vài thứ, mà feedback là 1 trong đống đó.
 
 Cái thay đổi nhiều nhất chắc phải nói đến chuyện làm outsource vs product.Trước kia làm outsource thì tập trung tech là đủ, làm gì làm miễn system chạy ngon “zero bug” thì được leo lên đầu clients ngồi luôn. Làm product thì khác, làm cái gì cũng phải nghĩ tới UX, làm có ai sài không, muốn làm tính năng đó thì phải khảo sát thị trường, làm xong rồi phải thu thập data feedback của khách hàng để tiếp tục analyze thử feature có affect được gì không, bởi vậy feedback của khách hàng giống như đống của cải vô hình của công ty vậy.
 
