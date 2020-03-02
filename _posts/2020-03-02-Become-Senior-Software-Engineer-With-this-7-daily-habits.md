@@ -20,15 +20,15 @@ Here is some main habits that I noted:
 *Notes*: If you want to move one more step in your career, try to learn management skill. You would say I was wrong when you want to build the technical career path instead of management stuff. Imagine yourself as a technical lead with team of 10+ people, and ask how to run the process smoothly with 10+ different characteristic. Whether you want to be recognized, you must learn the management skill.
 Refer to this book summaries for more [details](https://github.com/zalopay-oss/effective-engineer)
 
-**TAKE RESPONSIBILITY**
+## **TAKE RESPONSIBILITY**
 
-  What I have learned from Senior Developers / Tech Lead (SD/TL) is they are always proactive with their job. They work with high responsibility to handle every issue.
+  What I have learned from Senior Developers / Tech Lead is they are always proactive with their job. They work with high responsibility to handle every issue.
 
   Responsibility is a scary word, since you will face to depression when people react to what you've done. Getting over and being brave will make you growing up day by day.
 
   Embrace more interaction with issues and tasks will help you archive more ownership of your code and technical debts of your business. 
 
-PROBLEM-SOLVING
+## **PROBLEM-SOLVING**
 
   - Technology Solutions (Framework, Libraries...)
 
@@ -41,16 +41,16 @@ PROBLEM-SOLVING
   You don't need to be experienced in a lot of kind of systems, what you need is knowledge to solve the problem. I recommend you to read system design topic on leetcode, read book as much as possible, prepare good basic of complexity of algorithms.
 
   
-SOFT SKILLS
+## **SOFT SKILLS**
 
   Communication is the key when you work in a big team. Imagine you are manager of the project, it will be terrible for you when your teammates just never let you know the issues, progress of the tasks, right!?
 
-  Issues/Pull Requests discussing culture.[Code review culture](https://www.pullrequest.com/blog/5-steps-to-an-effective-code-review-culture/) is some tips to help you collobrate with others by problem-oriented instead of human-oriented.
+  Issues/Pull Requests discussing culture. [Code review culture](https://www.pullrequest.com/blog/5-steps-to-an-effective-code-review-culture/) is some tips to help you collobrate with others by problem-oriented instead of human-oriented.
 
   Find some articles or evidences to prove your viewpoint. As long as you discuss by numbers and clearance explanation, you are building trust and steady reputation in the team.
 
 
-CLEAN CODE
+## **CLEAN CODE**
 
   Clean code is also a name of the popular book, which you should read to write good.
 
@@ -68,7 +68,7 @@ CLEAN CODE
 
   Writing small methods and give them meaningful names. Always think about this if you want to reduce complaints when reviewing code or inherit to a newcomer.
 
-SIDE PROJECTS
+## **SIDE PROJECTS**
 
   One day, you have an idea to implement an online mentor service? Just do it as fast as possible. Implementing algorithm for mentor/mentee matching, building a basic frontend... will help you to understand all domains of software.
 
@@ -77,7 +77,7 @@ SIDE PROJECTS
   Try to approach as many different techniques as possile. These things will make you debate yourself, and they are good things. You will have an overview of solutions afterwards.
 
 
-ALWAYS THINK ABOUT HOW TO IMPROVE YOURSELF
+## **ALWAYS THINK ABOUT HOW TO IMPROVE YOURSELF**
 
   As short time you realized your code smell as fast you growing up. Good people never stick themselves into their safe zone, always staying hungry staying foolish is the reason why they are better than yesterday.
 
@@ -86,7 +86,7 @@ ALWAYS THINK ABOUT HOW TO IMPROVE YOURSELF
   Buy all the popular books with your domain relation. Learn new tech skills and blog them every months. Nothing else is more important than upgrading yourself to next level.
 
 
-GUIDE SOMEONE
+## **GUIDE SOMEONE**
 
   Guiding someone will consolidate your knowledge and handle edge cases of the problem. Guiding is not only helping others, it also helps you to build your confidence in many ways. Try to explain complex things in a simple way for people not only tech but business can understand your idea.
 
