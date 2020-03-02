@@ -1,8 +1,7 @@
 ---
 layout: post
 published: true
-title: Become Senior Sofware Engineer with these 7 Daily Habits.
-title: 7 habits of highly effective developers.
+title: 7 habits of highly effective developers
 ---
 
 As long as I observe a lot of senior developers or tech lead, as many tips I find out to confidently change our profile LinkedIn with Senior Software Engineer.
@@ -43,7 +42,7 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
   
 ## **SOFT SKILLS**
 
-  Communication is the key when you work in a big team. Imagine you are manager of the project, it will be terrible for you when your teammates just never let you know the issues, progress of the tasks, right!?
+  Communication is the key when you work in a big team. Imagine you are manager of the project, it will be terrible when your teammates just never let you know the issues, progress of the tasks, right!?
 
   Issues/Pull Requests discussing culture. [Code review culture](https://www.pullrequest.com/blog/5-steps-to-an-effective-code-review-culture/) is some tips to help you collobrate with others by problem-oriented instead of human-oriented.
 
@@ -54,7 +53,7 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
 
   Clean code is also a name of the popular book, which you should read to write good.
 
-  When we work in a team with 3-5 people or more in the repository, the only thing you can catch up with the logic is reading every commits and file changed. It's not only duty in the project, you can learn from others code and found some bad code.
+  When we work in a team with 3-5 people or more in the repository, the only thing you can catch up with the logic is **reading every commits and file changed**. It's not only duty in the project, you can learn from others code and found some bad code.
 
   There are some takeaway key points in the book:
 
