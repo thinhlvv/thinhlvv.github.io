@@ -16,7 +16,7 @@ Here is some main habits that I noted:
 6. Always think about how to improve yourself
 7. Guide someone.
 
-*Notes*: If you want to move one more step in your career, try to learn management skill. You would say I was wrong when you want to build the technical career path instead of management stuff. Imagine yourself as a technical lead with team of 10+ people, and ask how to run the process smoothly with 10+ different characteristic. Whether you want to be recognized, you must learn the management skill.
+*Notes*: If you want to move one more step in your career, try to learn management skill. You would say I was wrong, since you only want to build the technical career path instead of management stuff. Imagine yourself as a technical lead with team of 10+ people, and ask how to run the process smoothly with 10+ different characteristic. Whether you want to be recognized, you must learn the management skill.
 Refer to this book summaries for more [details](https://github.com/zalopay-oss/effective-engineer)
 
 ## **TAKE RESPONSIBILITY**
