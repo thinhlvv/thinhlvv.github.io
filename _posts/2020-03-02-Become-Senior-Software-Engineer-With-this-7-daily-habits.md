@@ -35,13 +35,13 @@ Whether you want to be recognized, you must learn the management skill. Refer to
 
   - Technology Solutions (Framework, Libraries...)
 
-  Trying many different frameworks/libraries is good, but being master one of them is the key you understand how it works so far. Youself or your colleagues will always ask many questions about the reason we approach those technologies, indeed understanding will help you to explain to the team.
+  Trying many different frameworks/libraries is good, but being master one of them is the key you understand how it works so far. Yourself or your colleagues will always ask many questions about the reason we approach those technologies, indeed understanding will help you to explain to the team.
 
 ![problem-solving](https://www.kepner-tregoe.com/default/assets/Image/bigstock--169315196%20%5BConverted%5D-01.jpg)
 
   - Infrastructure Solutions
 
-  There is not correct solution for all system, trade-off what you have and deal with it. Don't be over automic thinking, sacrify portion that stopping you reach the goal.
+  There is not correct solution for all systems, trade-off what you have and deal with it. Don't be over automic thinking, sacrify portion that stopping you reach the goal.
 
   You don't need to be experienced in a lot of kind of systems, what you need is knowledge to solve the problem. I recommend you to read system design topic on leetcode, read book as much as possible, prepare good basic of complexity of algorithms.
 
@@ -95,7 +95,7 @@ Whether you want to be recognized, you must learn the management skill. Refer to
 
 ![better-than-yesterday](https://www.theplrstore.com/wp-content/uploads/2019/08/1-percent-better-everyday-ebook-and-videos-mrr.jpg)
 
-  Buy all the popular books with your domain relation. Learn new tech skills and blog them every months. Nothing else is more important than upgrading yourself to next level.
+  Buy all the popular books with your domain related. Learn new tech skills and blog them every months. Nothing else is more important than upgrading yourself to next level.
 
   Last thing, review skill sets and measure it every year.
 
