@@ -16,8 +16,9 @@ Here is some main habits that I noted:
 6. Always think about how to improve yourself
 7. Guide someone.
 
-*Notes*: If you want to move one more step in your career, try to learn management skill. You would say I was wrong, since you only want to build the technical career path instead of management stuff. Imagine yourself as a technical lead with team of 10+ people, and ask how to run the process smoothly with 10+ different characteristic. Whether you want to be recognized, you must learn the management skill.
-Refer to this book summaries for more [details](https://github.com/zalopay-oss/effective-engineer)
+*Notes*: If you want to move one more step in your career, try to learn management skill. You would say I was wrong, since you only want to build the technical career path instead of management stuff. Imagine yourself as a technical lead with team of 10+ people, and ask how to run the process smoothly with 10+ different characteristic. 
+
+Whether you want to be recognized, you must learn the management skill. Refer to this book summaries for more [details](https://github.com/zalopay-oss/effective-engineer)
 
 ## **TAKE RESPONSIBILITY**
 
@@ -30,6 +31,7 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
   Embrace more interaction with issues and tasks will help you archive more ownership of your code and technical debts of your business. 
 
 ## **PROBLEM-SOLVING**
+
 
   - Technology Solutions (Framework, Libraries...)
 
@@ -77,7 +79,7 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
 
 ## **SIDE PROJECTS**
 
-  One day, you have an idea to implement an online mentor service? Just do it as fast as possible. Implementing algorithm for mentor/mentee matching, building a basic frontend... will help you to understand all domains of software. And important thing - FINISH IT.w
+  One day, you have an idea to implement an online mentor service? Just do it as fast as possible. Implementing algorithm for mentor/mentee matching, building a basic frontend... will help you to understand all domains of software. And important thing - **FINISH IT**.
 
 ![side-projecs](https://external-preview.redd.it/6fqauWjEOUv3KMNxrYSP_wE3CIUuT4yxYpuq2Z9zD3k.jpg?auto=webp&s=9428720bfb0749c577c1e73c6d9083c5fbff040e)
 
