@@ -20,7 +20,7 @@ Here is some main habits that I noted:
 
 Whether you want to be recognized, you must learn the management skill. Refer to this book summaries for more [details](https://github.com/zalopay-oss/effective-engineer)
 
-## **TAKE RESPONSIBILITY**
+## **1.TAKE RESPONSIBILITY**
 
   What I have learned from Senior Developers / Tech Lead is they are always proactive with their job. They work with high responsibility to handle every issue.
 
@@ -30,7 +30,7 @@ Whether you want to be recognized, you must learn the management skill. Refer to
 
   Embrace more interaction with issues and tasks will help you archive more ownership of your code and technical debts of your business. 
 
-## **PROBLEM-SOLVING**
+## **2.PROBLEM-SOLVING**
 
 
   - Technology Solutions (Framework, Libraries...)
@@ -46,7 +46,7 @@ Whether you want to be recognized, you must learn the management skill. Refer to
   You don't need to be experienced in a lot of kind of systems, what you need is knowledge to solve the problem. I recommend you to read system design topic on leetcode, read book as much as possible, prepare good basic of complexity of algorithms.
 
   
-## **SOFT SKILLS**
+## **3.SOFT SKILLS**
 
   Communication is the key when you work in a big team. Imagine you are manager of the project, it will be terrible when your teammates just never let you know the issues, progress of the tasks, right!?
 
@@ -57,7 +57,7 @@ Whether you want to be recognized, you must learn the management skill. Refer to
   Find some articles or evidences to prove your viewpoint. As long as you discuss by numbers and clearance explanation, you are building trust and steady reputation in the team.
 
 
-## **CLEAN CODE**
+## **4.CLEAN CODE**
 
   Clean code is also a name of the popular book, which you should read to write good.
 
@@ -77,7 +77,7 @@ Whether you want to be recognized, you must learn the management skill. Refer to
 
   Writing small methods and give them meaningful names. Always think about this if you want to reduce complaints when reviewing code or inherit to a newcomer.
 
-## **SIDE PROJECTS**
+## **5.SIDE PROJECTS**
 
   One day, you have an idea to implement an online mentor service? Just do it as fast as possible. Implementing algorithm for mentor/mentee matching, building a basic frontend... will help you to understand all domains of software. And important thing - **FINISH IT**.
 
@@ -87,7 +87,7 @@ Whether you want to be recognized, you must learn the management skill. Refer to
 
   For myself side projects, I usually implement some design system lessons to improve my architecture skills. [TinyURL](https://github.com/thinhlvv/tinyurl) 
 
-## **ALWAYS THINK ABOUT HOW TO IMPROVE YOURSELF**
+## **6.ALWAYS THINK ABOUT HOW TO IMPROVE YOURSELF**
 
   As short time you realized your code smell as fast you growing up. Good people never stick themselves into their safe zone, always staying hungry staying foolish is the reason why they are better than yesterday.
 
@@ -100,7 +100,7 @@ Whether you want to be recognized, you must learn the management skill. Refer to
   Last thing, review skill sets and measure it every year.
 
 
-## **GUIDE SOMEONE**
+## **7.GUIDE SOMEONE**
 
   Guiding someone will consolidate your knowledge and handle edge cases of the problem. Guiding is not only helping others, it also helps you to build your confidence in many ways. Try to explain complex things in a simple way for people not only tech but business can understand your idea.
 
