@@ -25,6 +25,8 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
 
   Responsibility is a scary word, since you will face to depression when people react to what you've done. Getting over and being brave will make you growing up day by day.
 
+![responsibility](https://www.corporatecomplianceinsights.com/wp-content/uploads/2019/07/responsibility.jpg)
+
   Embrace more interaction with issues and tasks will help you archive more ownership of your code and technical debts of your business. 
 
 ## **PROBLEM-SOLVING**
@@ -32,6 +34,8 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
   - Technology Solutions (Framework, Libraries...)
 
   Trying many different frameworks/libraries is good, but being master one of them is the key you understand how it works so far. Youself or your colleagues will always ask many questions about the reason we approach those technologies, indeed understanding will help you to explain to the team.
+
+![problem-solving](https://www.kepner-tregoe.com/default/assets/Image/bigstock--169315196%20%5BConverted%5D-01.jpg)
 
   - Infrastructure Solutions
 
@@ -44,6 +48,8 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
 
   Communication is the key when you work in a big team. Imagine you are manager of the project, it will be terrible when your teammates just never let you know the issues, progress of the tasks, right!?
 
+![soft-skills](https://blogin.co/uploads/images/goal-oriented-communication-team.jpg)
+
   Issues/Pull Requests discussing culture. [Code review culture](https://www.pullrequest.com/blog/5-steps-to-an-effective-code-review-culture/) is some tips to help you collobrate with others by problem-oriented instead of human-oriented.
 
   Find some articles or evidences to prove your viewpoint. As long as you discuss by numbers and clearance explanation, you are building trust and steady reputation in the team.
@@ -54,6 +60,8 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
   Clean code is also a name of the popular book, which you should read to write good.
 
   When we work in a team with 3-5 people or more in the repository, the only thing you can catch up with the logic is **reading every commits and file changed**. It's not only duty in the project, you can learn from others code and found some bad code.
+
+![clean-code](https://www.wlion.com/wp-content/uploads/2017/04/CleanCode.jpg)
 
   There are some takeaway key points in the book:
 
@@ -69,12 +77,13 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
 
 ## **SIDE PROJECTS**
 
-  One day, you have an idea to implement an online mentor service? Just do it as fast as possible. Implementing algorithm for mentor/mentee matching, building a basic frontend... will help you to understand all domains of software.
+  One day, you have an idea to implement an online mentor service? Just do it as fast as possible. Implementing algorithm for mentor/mentee matching, building a basic frontend... will help you to understand all domains of software. And important thing - FINISH IT.w
 
-  For myself side projects, I usually implement some design system lessons to improve my architecture skills. [TinyURL](https://github.com/thinhlvv/tinyurl) 
+![side-projecs](https://external-preview.redd.it/6fqauWjEOUv3KMNxrYSP_wE3CIUuT4yxYpuq2Z9zD3k.jpg?auto=webp&s=9428720bfb0749c577c1e73c6d9083c5fbff040e)
 
   Try to approach as many different techniques as possile. These things will make you debate yourself, and they are good things. You will have an overview of solutions afterwards.
 
+  For myself side projects, I usually implement some design system lessons to improve my architecture skills. [TinyURL](https://github.com/thinhlvv/tinyurl) 
 
 ## **ALWAYS THINK ABOUT HOW TO IMPROVE YOURSELF**
 
@@ -82,12 +91,18 @@ Refer to this book summaries for more [details](https://github.com/zalopay-oss/e
 
   I was exhausted with my mentor before because he consumed lots of things day by day, the following month he always applied new lib, framework or pattern. That also how the world-changing nowaday. Be a better version of yourself.
 
+![better-than-yesterday](https://www.theplrstore.com/wp-content/uploads/2019/08/1-percent-better-everyday-ebook-and-videos-mrr.jpg)
+
   Buy all the popular books with your domain relation. Learn new tech skills and blog them every months. Nothing else is more important than upgrading yourself to next level.
+
+  Last thing, review skill sets and measure it every year.
 
 
 ## **GUIDE SOMEONE**
 
   Guiding someone will consolidate your knowledge and handle edge cases of the problem. Guiding is not only helping others, it also helps you to build your confidence in many ways. Try to explain complex things in a simple way for people not only tech but business can understand your idea.
+
+![guide-someone](https://helen8thomson.files.wordpress.com/2011/11/cartoonblog.jpg)
 
   Sometimes you will understand the fundamental of problems just by stupid questions.
 
