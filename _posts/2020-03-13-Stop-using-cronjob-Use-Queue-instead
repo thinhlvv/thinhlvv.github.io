@@ -1,0 +1,11 @@
+---
+layout: post
+published: false
+title: Stop using Cron. Use Message Queue instead
+---
+
+Don't get me wrong. 
+
+### When do you need to make decision to scale your system?
+
+
