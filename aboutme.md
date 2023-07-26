@@ -10,6 +10,7 @@ My name is Thinh. Inspired blockchain in Singapore. Can call me :
 - Guitarist.
 - Football player.
 - Illiterater.
+- My baby: https://myportfolios.io
 
 What else do you need?
 
